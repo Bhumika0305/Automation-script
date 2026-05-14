@@ -47,11 +47,5 @@ The script successfully:
 
 ---
 
-## Output Screenshot
-
-![Output](output-task1.png)
-
----
-
 ## Author
 Python Development Internship Task Submission
